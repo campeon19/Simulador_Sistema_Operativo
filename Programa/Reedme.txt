@@ -1,0 +1,3 @@
+El programa es el Sistema_Operativo_Final.py
+
+El Sistema_Operativo_Prueba fue el primer intento por realizar el programa

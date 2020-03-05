@@ -48,8 +48,7 @@ for i in range(201):
 env.run()
 
 
-mi_path = "Tiempos.txt"
-x = open(mi_path, "a+")
+
 promedio = 0
 for j in range(201):
     promedio = promedio + Total[i]
