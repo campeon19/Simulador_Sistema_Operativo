@@ -1,0 +1,12 @@
+Según el comportamiento visto en el Simulador y el analisis de las gráficas
+se puede concluir lo siguiente:
+
+1. Al aumentarle la RAM pero manteniendo la potencia del CPU baja, no se
+vio ningún cambio.
+
+2. Al aumentarle la capacidad de procesamiento al procesador, se puede notar una
+diferencia clara, pues los procesos se ejecutan más rapido
+
+3. Al dejar la capacidad de procesamiento en 3, pero poniendole 2 CPUs, se pudo 
+ver un cambio drastico. De las formas probadas, esta fue la que mejor resultado
+dio. Los procesos se ejecutaron muy rápido en comparacion al estado inicial.
